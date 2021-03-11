@@ -2,7 +2,6 @@
 
 """ ---- Recursive Euklides Algorithm ---- """
 
-
 def euklides_rec(x,y):
     
     """
@@ -12,7 +11,6 @@ def euklides_rec(x,y):
     Input: x:int, y:int
     Output: None
     Return: GCD(x,y):int
-    
     """
    
     r = x % y # rest of division x,y
