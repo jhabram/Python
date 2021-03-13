@@ -6,12 +6,17 @@
 def euklides_rec(x,y):
     
     """
-    Function that calculates and returns GCD(x,y) - The greatest common divisor
+    Returns GCD(x,y) - The greatest common divisor
     of two integer numbers using Euklides algorithm.
     
-    Input: x:int, y:int
-    Output: None
-    Return: GCD(x,y):int
+    Input
+    -----
+    x:int
+    y:int
+    
+    Return
+    ------
+    GCD(x,y):int
     
     """
    
